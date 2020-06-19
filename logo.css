@@ -1,0 +1,64 @@
+body{
+		padding:0;
+		margin:0;
+		font-family:"Baloo Da 2";
+		}
+.one{
+		position:relative;
+		display:flex;
+		width:max-content;
+		font-size:6pc;
+		font-weight:700;
+		z-index:5;
+		transform:translate3d(115px,215px,0px);
+		}
+.beauty{
+				text-align:center;
+				background:-webkit-linear-gradient(30deg,#123456 31%,#33ff00,#377cbd 70%);
+				-webkit-background-clip:text;
+				-webkit-text-fill-color:transparent;
+				margin-top:15px;
+				}
+.letter2{
+		transform:translate3d(-23px,28px,0px);
+		}
+.two{
+		margin:auto;
+		padding:50px;
+		z-index:-10;
+		}
+.square1{
+		margin:auto;
+		background-color:#314cbd;
+		width:40px;
+		height:40px;
+		border-radius:15px;
+		transform:rotateZ(-45deg);
+		}
+.square2{
+		margin:auto;
+		background-color:#399cbd;
+		width:40px;
+		height:40px;
+		border-radius:20px;
+		transform:rotateZ(-45deg);
+		padding:15px;
+		}
+.square3{
+		margin:auto;
+		background-color:lightskyblue;
+		width:max-content;
+		border-radius:30px;
+		transform:rotateZ(-45deg);
+		padding:25px;
+		}		
+.square4{
+		margin:auto;
+		background-color:#123456;
+		width:max-content;
+		border-radius:45px;
+		transform:rotateZ(-45deg);
+		padding:33px;
+		}				
+		
+		

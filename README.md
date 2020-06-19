@@ -1,2 +1,2 @@
 # Logo_Contest
-Muslim developers logo contest
+https://fasasisherif.github.io/Logo_Contest/logo.html
